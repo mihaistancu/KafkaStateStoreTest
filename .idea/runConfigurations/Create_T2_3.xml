@@ -1,8 +1,8 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Create T2 5" type="Application" factoryName="Application">
+  <configuration default="false" name="Create T2 3" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="CreateTopics" />
     <module name="KafkaStateStoreTest" />
-    <option name="PROGRAM_PARAMETERS" value="t2 5" />
+    <option name="PROGRAM_PARAMETERS" value="t2 3" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
