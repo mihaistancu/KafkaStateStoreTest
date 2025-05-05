@@ -12,3 +12,5 @@
 
 `Consume t1 app1`
 `Consume t1 app2`
+
+`Streams t1,t2 app1`
