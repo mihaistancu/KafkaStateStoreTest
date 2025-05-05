@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Consume t1 app1" type="Application" factoryName="Application">
+  <configuration default="false" name="Consume t1 app1" type="Application" factoryName="Application" singleton="false">
     <option name="MAIN_CLASS_NAME" value="Consume" />
     <module name="KafkaStateStoreTest" />
     <option name="PROGRAM_PARAMETERS" value="t1 app1" />

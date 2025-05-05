@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Produce t1 4 d" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Produce" />
+    <module name="KafkaStateStoreTest" />
+    <option name="PROGRAM_PARAMETERS" value="t1 4 d" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
