@@ -11,3 +11,7 @@
 `Produce t1 2 b`
 
 `Produce t1 3 c`
+
+`Consume t1 app1`
+
+`Consume t1 app2`
